@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\work\\nim_demo\\faceunity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\682cb69f3cf37cb26871cd1c8e3a7623\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\work\\nim_demo\\faceunity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\3069f6a6439ef4586b5a35a6330436fb\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\work\\nim_demo\\faceunity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\3069f6a6439ef4586b5a35a6330436fb\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\work\\nim_demo\\faceunity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\3069f6a6439ef4586b5a35a6330436fb\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

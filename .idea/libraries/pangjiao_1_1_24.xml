@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="pangjiao-1.1.24">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pangjiao-1.1.24.aar/ac1a55a39359ea440e33ed8dd744dbb6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pangjiao-1.1.24.aar/ac1a55a39359ea440e33ed8dd744dbb6/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pangjiao-1.1.24.aar/ac1a55a39359ea440e33ed8dd744dbb6/jars/libs/javax.annotation-3.1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

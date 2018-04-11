@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\work\\nim_demo\\rtskit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\682cb69f3cf37cb26871cd1c8e3a7623\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\work\\nim_demo\\rtskit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\682cb69f3cf37cb26871cd1c8e3a7623\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\work\\nim_demo\\rtskit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\682cb69f3cf37cb26871cd1c8e3a7623\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\work\\nim_demo\\rtskit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\682cb69f3cf37cb26871cd1c8e3a7623\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

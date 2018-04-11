@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\work\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\avchat_connecting.mp3",
+        "source": "F:\\work\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_connecting.mp3"
+    },
+    {
+        "merged": "F:\\work\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\audio_end_tip.wav",
+        "source": "F:\\work\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\raw\\audio_end_tip.wav"
+    },
+    {
+        "merged": "F:\\work\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\avchat_no_response.mp3",
+        "source": "F:\\work\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_no_response.mp3"
+    },
+    {
+        "merged": "F:\\work\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\avchat_peer_reject.mp3",
+        "source": "F:\\work\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_peer_reject.mp3"
+    },
+    {
+        "merged": "F:\\work\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\avchat_ring.mp3",
+        "source": "F:\\work\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_ring.mp3"
+    },
+    {
+        "merged": "F:\\work\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\njrmf360.crt",
+        "source": "F:\\work\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\raw\\njrmf360.crt"
+    },
+    {
+        "merged": "F:\\work\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\avchat_peer_busy.mp3",
+        "source": "F:\\work\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_peer_busy.mp3"
+    }
+]

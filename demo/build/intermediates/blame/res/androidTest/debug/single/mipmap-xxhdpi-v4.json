@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\work\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\cp_icon_clear_all.png",
+        "source": "F:\\work\\nim_demo\\citypicker\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxhdpi-v4\\cp_icon_clear_all.png"
+    },
+    {
+        "merged": "F:\\work\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\cp_icon_empty.png",
+        "source": "F:\\work\\nim_demo\\citypicker\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxhdpi-v4\\cp_icon_empty.png"
+    }
+]
